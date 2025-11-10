@@ -28,7 +28,6 @@ To classify customer reviews into positive or negative sentiment with high accur
 ## 🧰 Tools & Libraries
 - Python
 - Scikit-learn
-- Gensim
 - SentenceTransformers
 
 ## 📊 Evaluation
